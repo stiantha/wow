@@ -1,0 +1,42 @@
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\bin\Debug\net8.0\FallingParticles.exe
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\bin\Debug\net8.0\FallingParticles.deps.json
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\bin\Debug\net8.0\FallingParticles.runtimeconfig.json
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\bin\Debug\net8.0\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\bin\Debug\net8.0\FallingParticles.pdb
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\FallingParticles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\FallingParticles.AssemblyInfoInputs.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\FallingParticles.AssemblyInfo.cs
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\FallingParticles.csproj.CoreCompileInputs.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\refint\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\FallingParticles.pdb
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\FallingParticles.genruntimeconfig.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\FallingParticles-main\FallingParticles\obj\Debug\net8.0\ref\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.exe
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.deps.json
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.runtimeconfig.json
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.pdb
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.AssemblyInfoInputs.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.AssemblyInfo.cs
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.csproj.CoreCompileInputs.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\refint\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.pdb
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.genruntimeconfig.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 1A\FallingParticles\obj\Debug\net8.0\ref\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.exe
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.deps.json
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.runtimeconfig.json
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\bin\Debug\net8.0\FallingParticles.pdb
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.AssemblyInfoInputs.cache
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.AssemblyInfo.cs
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.csproj.CoreCompileInputs.cache
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\refint\FallingParticles.dll
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.pdb
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\FallingParticles.genruntimeconfig.cache
+C:\Users\stian\OneDrive\Desktop\1012\Oppgave 1A\FallingParticles\obj\Debug\net8.0\ref\FallingParticles.dll

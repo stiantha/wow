@@ -1,0 +1,21 @@
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\bin\Debug\net8.0\Oppgave2A.exe
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\bin\Debug\net8.0\Oppgave2A.deps.json
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\bin\Debug\net8.0\Oppgave2A.runtimeconfig.json
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\bin\Debug\net8.0\Oppgave2A.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\bin\Debug\net8.0\Oppgave2A.pdb
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.AssemblyInfoInputs.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.AssemblyInfo.cs
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.csproj.CoreCompileInputs.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\refint\Oppgave2A.dll
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.pdb
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.genruntimeconfig.cache
+C:\Users\stian\OneDrive\Desktop\OOP Eksamen\Oppgave 2A\Oppgave2A\Oppgave2A\obj\Debug\net8.0\ref\Oppgave2A.dll
+C:\Users\stian\OneDrive\Desktop\Skole % CV\Eksamener\Del 3\Oppgave 2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stian\OneDrive\Desktop\Skole % CV\Eksamener\Del 3\Oppgave 2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.AssemblyInfoInputs.cache
+C:\Users\stian\OneDrive\Desktop\Skole % CV\Eksamener\Del 3\Oppgave 2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.AssemblyInfo.cs
+C:\Users\stian\OneDrive\Desktop\Skole % CV\Eksamener\Del 3\Oppgave 2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.csproj.CoreCompileInputs.cache
+C:\Users\stian\OneDrive\Desktop\Skole % CV\Eksamener\Del 3\Oppgave 2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.dll
+C:\Users\stian\OneDrive\Desktop\Skole % CV\Eksamener\Del 3\Oppgave 2A\Oppgave2A\obj\Debug\net8.0\refint\Oppgave2A.dll
+C:\Users\stian\OneDrive\Desktop\Skole % CV\Eksamener\Del 3\Oppgave 2A\Oppgave2A\obj\Debug\net8.0\Oppgave2A.pdb
